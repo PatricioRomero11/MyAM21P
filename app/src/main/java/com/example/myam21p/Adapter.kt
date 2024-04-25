@@ -29,7 +29,7 @@ class Adapter(val context: Context) : ListAdapter<Movie, Adapter.ViewHolder>(Dif
             actorElem.text=mv.actor
 
 
-            Glide.with(context).load(mv.type).into(typeElem)
+            Glide.with(context).load(mv.poster).into(imageElem)
 
 
 
