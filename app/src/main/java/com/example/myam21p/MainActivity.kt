@@ -47,6 +47,7 @@ class MainActivity : AppCompatActivity() {
             Movie(12, "https://upload.wikimedia.org/wikipedia/en/a/a2/Star_Wars_The_Force_Awakens_Theatrical_Poster.jpg",  "Star Wars (2015)","J.J. Abrams ","Daisy Ridley " ,MovieType.CIENCIA_FICCION),
             Movie(13, "https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg",  "Avengers: Endgame (2019)","Anthony Russo","Robert Downey Jr." ,MovieType.ACCION),
             Movie(14, "https://upload.wikimedia.org/wikipedia/en/a/a2/Star_Wars_The_Force_Awakens_Theatrical_Poster.jpg",  "Star Wars (2015)","J.J. Abrams ","Daisy Ridley " ,MovieType.CIENCIA_FICCION),
+            Movie(15, "https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg",  "Avengers: Endgame (2019)","Anthony Russo","Robert Downey Jr." ,MovieType.ACCION),
 
             )
     }
